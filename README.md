@@ -1,9 +1,9 @@
-Tutor plugin for [Open edX Webhook Receiver](https://github.com/hastexo/webhook-receiver)
+Tutor plugin for [Open edX Webhook Receiver](https://github.com/itsolution-tunisia/webhook-receiver)
 ===================================
 
 This is an **experimental** plugin for
 [Tutor](https://docs.tutor.overhang.io) that deploys the
-[Open edX Webhook Receiver](https://github.com/hastexo/webhook-receiver) 
+[Open edX Webhook Receiver](https://github.com/itsolution-tunisia/webhook-receiver) 
 application alongside Open edX.
 
 Installation
